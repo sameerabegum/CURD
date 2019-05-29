@@ -1,0 +1,25 @@
+<div class="container-fluid">
+  <div class="row">
+    <div>
+      <button routerLink="/employee">Add Employee</button>
+
+    </div>
+    <table>
+      <tr>
+        <th>Id</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Email</th>
+        <th>Gender</th>
+      </tr>
+      <tr *ngFor="let employees of employee">
+        <td>{{employees.id}}</td>
+        <td>{{employees.first_name}}</td>
+        <td>{{employees.last_name}}</td>
+        <td>{{employees.email}}</td>
+        <td>{{employees.gender}}</td>
+      </tr>
+
+    </table>
+  </div>
+</div>

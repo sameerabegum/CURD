@@ -1,0 +1,29 @@
+<h2>Employee List</h2>
+
+
+
+<div class="conatiner-fluid">
+
+
+  <div class="row">
+    <div class="col-lg-6">
+      <form [formGroup]="titleForm" (ngSubmit)="onSubmit()">
+        <label for="title">Label:</label>
+        <input id="title" type="text" value="title" name="title" formControlName="title">
+        <button type="submit" class="btn btn-primary">Submit</button>
+
+
+      </form>
+    </div>
+    <div class="col-lg-6">
+      <ul *ngFor="let employee of emplyoeeSecond ">
+        <li>{{employee.id}}</li>
+        <li> {{employee.title}}</li>
+        <label (click)="onDelete(employee.id)">Delete</label>&nbsp;
+        <label>Edit</label>
+
+      </ul>
+    </div>
+  </div>
+
+</div>

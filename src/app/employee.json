@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Theda",
+        "last_name": "Nichols",
+        "email": "tnichols0@histats.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Portie",
+        "last_name": "Tite",
+        "email": "ptite1@craigslist.org",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Felix",
+        "last_name": "Licciardo",
+        "email": "flicciardo2@bizjournals.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Kipper",
+        "last_name": "Chuney",
+        "email": "kchuney3@ucoz.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Thorstein",
+        "last_name": "Lippett",
+        "email": "tlippett4@domainmarket.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Lela",
+        "last_name": "Songer",
+        "email": "lsonger5@time.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Arabella",
+        "last_name": "Corkel",
+        "email": "acorkel6@irs.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Wadsworth",
+        "last_name": "Saphin",
+        "email": "wsaphin7@domainmarket.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Field",
+        "last_name": "Westgate",
+        "email": "fwestgate8@google.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Milzie",
+        "last_name": "Cason",
+        "email": "mcason9@wsj.com",
+        "gender": "Female"
+    }
+]
